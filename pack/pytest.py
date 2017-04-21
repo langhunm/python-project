@@ -13,5 +13,7 @@ def printstr(s11tr):
     
     "adfadsfasdssss"
     print s11tr
+    print s11tr
+    print s11tr
     return 
 printstr(  "adfadsfasd")
