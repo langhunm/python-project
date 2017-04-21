@@ -17,3 +17,5 @@ def printstr(s11tr):
     print s11tr
     return 
 printstr(  "adfadsfasd")
+printstr(  "adfadsfasd")
+printstr(  "adfadsfasd")
